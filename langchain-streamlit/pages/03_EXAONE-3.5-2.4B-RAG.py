@@ -7,8 +7,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.schema.runnable import RunnableLambda, RunnablePassthrough
-st.set_page_config(page_title="🚕EXAONE-3.5-7.8B-RAG🚕")
-st.title("🚕EXAONE-3.5-7.8B-RAG🚕")
+st.set_page_config(page_title="EXAONE-3.5-7.8B-RAG")
+st.title("EXAONE-3.5-7.8B-RAG")
 st.markdown(
     """
     🎧  

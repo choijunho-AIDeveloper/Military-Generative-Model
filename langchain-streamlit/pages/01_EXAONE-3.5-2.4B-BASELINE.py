@@ -5,8 +5,8 @@ from transformers import BitsAndBytesConfig
 import torch
 from langchain_core.output_parsers import StrOutputParser
 
-st.set_page_config(page_title="🚗EXAONE-3.5-2.4B-BASELINE🚗")
-st.title("🚗EXAONE-3.5-2.4B-BASELINE🚗")
+st.set_page_config(page_title="EXAONE-3.5-2.4B-BASELINE")
+st.title("EXAONE-3.5-2.4B-BASELINE")
 st.markdown(
     """
     🎧
